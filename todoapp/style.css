@@ -1,0 +1,41 @@
+body{
+    display:flex;
+    height: 100%;
+    margin:0;
+    padding:0
+  }
+  #leftDiv{
+    flex:1;
+    height:100%;
+    background-color: lightcoral
+  
+  }
+  #rightDiv{
+    flex:1;
+    height:100%;
+    background-color: lightseagreen;
+  
+  }
+  #todoBox{
+     width:100%;
+    height:50%;
+   
+  }
+  .db{
+    border-radius: 10px;
+    background-color: lightseagreen;
+  
+  }
+  .todoContainer{
+    display: flex;
+  align-items: center;
+  
+  
+  }
+  #edit{
+    border-radius: 10px;
+    background-color: lightseagreen;
+    margin:5px 5px
+
+  }
+  
