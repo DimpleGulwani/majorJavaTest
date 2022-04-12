@@ -1,0 +1,47 @@
+body
+{
+  background : white;
+}
+h1{
+  color : red;
+  text-align : center;
+font-size: 50px;
+}
+
+#total
+{
+  font-size : 65px;
+  text-align: center;
+  color : orange;
+}
+#buttons{
+    margin-top: 20px;
+    margin-bottom: 20px;
+    text-align: center;
+}
+#startstop ,#laps
+{
+  
+
+  padding : 10px 20px;
+  color : red;
+  background:orange;
+ border-radius: 15px;
+ width:120px;
+  font-size:30px;
+
+}
+
+
+#lapslist
+{
+  font-size : 25px;
+  border: 2px solid black;
+  width: 500px;
+  margin-left: 450px;
+  justify-content: center;
+  color : orange;
+}
+#lapsminutes{
+    text-align: center;
+}
